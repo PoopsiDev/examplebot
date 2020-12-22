@@ -29,7 +29,6 @@ client.on(`message`, message => {
     if (message.content === `${config.prefix}hello`) {
         message.channel.send(`Hello ${message.author.username}`);
     }
-
 });
 
 //This lets you log in as the bot
