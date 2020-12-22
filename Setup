@@ -1,0 +1,47 @@
+Hello i'm Poopsi! a discord bot developer, and I have decided to help new discord bot creators like yourself on how to make a discord bot in discord.js.
+
+Here I have everything written down step by step on how to set your discord bot up.
+
+___________________________________________________________________________________
+
+                        Things you are required to install
+___________________________________________________________________________________
+
+
+In your terminal:
+    -type "npm install nodejs!
+    -type "npm install discord.js"
+
+___________________________________________________________________________________
+
+                        Links that will help you make the bot
+___________________________________________________________________________________
+
+
+1. https://discord.com/developers/applications
+
+2. https://discord.js.org/#/
+
+3. www.youtube.com
+
+___________________________________________________________________________________
+
+                        Basic setup of the bot
+___________________________________________________________________________________
+
+1. Aquire your discord bot token at the your discord developer portal.
+
+2. go to ./Utils/botCofig.json and replace "example-token" with your bot token.
+
+3. Make sure you have installed discord.js (see line 13)
+
+4. Make sure your bot is in your discord server.
+
+5. type "node index.js" in your terminal, and watch the magic happen.
+
+
+___________________________________________________________________________________
+
+    If you require more help, please be sure to contact Poopsi on discord 
+        -Poopsi#4236
+___________________________________________________________________________________
