@@ -25,6 +25,7 @@ client.on("ready", async ()=> {
     }
 });
 //basic command to say hello back, check the bot config for the preifx
+//this is what I like to call "if this then do that"
 client.on(`message`, message => {
     if (message.content === `${config.prefix}hello`) {
         message.channel.send(`Hello ${message.author.username}`);
